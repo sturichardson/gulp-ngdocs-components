@@ -1,12 +1,12 @@
 {
-  "name": "gulp-ngdocs-components",
-  "version": "0.1.4",
-  "author": "m-sanchez",
+  "name": "gulp-ngdocs-components-stu",
+  "version": "1.0.0",
+  "author": "sturichardson",
   "description": "gulp plugin for angularjs documentation",
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodeineLabs/gulp-ngdocs-components.git"
+    "url": "https://github.com/sturichardson/gulp-ngdocs-components.git"
   },
   "keywords": [
     "gulpplugin",
